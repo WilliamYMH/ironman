@@ -1,11 +1,11 @@
 h1{
-	color: red;
+	color: green;
 }
 article li {
-	color: #00f;
+	color: #0ff;
 }
 article li strong{
-	color: #000;
+	color: #00a;
 }
 /*
 aside{
@@ -90,10 +90,10 @@ nav ul{
 }
 nav ul li a{
 	font-family: Arial;
-	font size: 11px;
+	font size: 12px;
 	text text-decoration: none;
 	float: left;
-	padding: 10px;
+	padding: 20px;
 	background-color: #2175bc;
 	color: #fff;
 }
