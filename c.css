@@ -5,7 +5,7 @@ article li {
 	color: #0ff;
 }
 article li strong{
-	color: #00a;
+	color: #00;
 }
 /*
 aside{
@@ -31,7 +31,7 @@ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=’toiop.png’);
 }
 
 #inibat{
-	color: yellow;
+	color: blue;
 }
 #dbat{
 	color:white;
@@ -41,19 +41,19 @@ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=’toiop.png’);
 }
 #experiencia{
 	float: left;
-	width: 50%;
+	width: 60%;
 }
 #fb{
 	color: white;
 }
 #formacionBat{
 	float: left;
-	width: 50%;
+	width: 60%;
 	color:white;
 }
 #experienciaBat{
 	float: left;
-	width: 50%;
+	width: 60%;
 	color:white;
 }
 #tipo{
@@ -89,18 +89,18 @@ nav ul{
 	list-style: none;
 }
 nav ul li a{
-	font-family: Arial;
-	font size: 12px;
+	font-family: Calibri;
+	font size: 14px;
 	text text-decoration: none;
 	float: left;
-	padding: 20px;
+	padding: 24px;
 	background-color: #2175bc;
 	color: #fff;
 }
 nav ul li a:hover {
 	background-color: #2586d7;
-	margin-top: -2px;
-	padding-bottom: 12px;
+	margin-top: -3px;
+	padding-bottom: 14px;
 }
 footer{
 	clear: both;
@@ -111,12 +111,12 @@ footer{
 	}
 	aside{
 		float: left;
-		width: 40%;
+		width: 50%;
 		clear: both;
 	}
 	section{
 		float: left;
-		width: 60%;
+		width: 70%;
 	}
 	#formacion{
 		width: 100%;
